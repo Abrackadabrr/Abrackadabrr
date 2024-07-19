@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abrackadabrr
 - 👀 I’m interested in computational physics
-- 🌱 I’m currently learning theoretical mechanics and basic electricity
+- 🌱 I’m currently learning integral equations in electrodynamic waves scattering
 
 <!---
 Abrackadabrr/Abrackadabrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
