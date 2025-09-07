@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abrackadabrr
-- 👀 I’m interested in computational physics
+- 👀 I’m interested in computational mathematics and physics
 - 🌱 I’m currently learning integral equations in electrodynamic waves scattering
 
 <!---
